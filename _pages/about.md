@@ -1,5 +1,5 @@
 ---
-permalink: /academicpages
+permalink: /
 title: " Muhammad Fawzy"
 excerpt: "About me"
 author_profile: true
