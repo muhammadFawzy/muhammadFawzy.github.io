@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio-1.jpg'>"
+title: "Raye7"
+excerpt: "Raye7 is the most secure, fun & efficient mean to commute to work or to university<br/><img src='/images/portfolio-1.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Using “Raye7” mobile application, You’ll be notified when your friends and co-workers are going to work so that you can share a ride with them instead of taking your car. Your security is crucial, that’s why you can only share with someone you trust to ensure you’re safe from possible harassments or abuse. And thus, instead of spending 3 hours of stress and frustration in your car, you’ll actually have enough time to make new friends, read a book, play sports, participate in community service activities, or even pursue your MBA!
+
+“Raye7” is your way into a better commuting experience , that is more flexible than a company bus, saves you the fuel cost of your car & less expensive than taking the cab or the even any private bus!
+
+Use “Raye7” and share a joyful ride, pay less, save the environment
