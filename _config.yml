@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Android Engineer"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Muhammad Fawzy"
 description              : &description "I'm a Geek Andorid Engineer who is very interested in clean code & clean Architecture, I use technology to build tools to make the mobile more approachable."
