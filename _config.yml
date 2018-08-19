@@ -81,11 +81,10 @@ analytics:
 author:
   name             : "Muhammad Fawzy"
   avatar           : "profile_photo.png"
-  bio              : "Android Engineer"
+  bio              : "I'm a Geek Andorid Engineer who is very interested in clean code & clean Architecture, I use technology to build tools to make the mobile more approachable."
   location         : "Egypt, cairo"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "mfawzi109@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/muhammadFawzy"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/mfawzi109/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :  "https://stackoverflow.com/users/8996195/mohamed-fawzy"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
