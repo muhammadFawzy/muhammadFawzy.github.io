@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Muhammad Fawzy"
-  avatar           : "/images/profile_photo.png"
+  avatar           : "profile_photo.png"
   bio              : "Android Engineer"
   location         : "Egypt, cairo"
   employer         :
