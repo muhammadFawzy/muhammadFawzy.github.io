@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fawzy / Site Title"
+title                    : "Android Engineer"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Muhammad Fawzy"
+description              : &description "I'm a Geek Andorid Engineer who is very interested in clean code & clean Architecture, I use technology to build tools to make the mobile more approachable."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "muhammadfawzy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Muhammad Fawzy"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Android Engineer"
+  location         : "Egypt, cairo"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
