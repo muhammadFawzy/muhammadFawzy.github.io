@@ -16,7 +16,7 @@ Education
 Work experience
 ======
 * [Raye7](https://www.raye7.com)(Aug 2017 - Present) 
- * We are working in an agile environment with the scrum methodology.
+  * We are working in an agile environment with the scrum methodology.
   Responsible for delivering the app with the best UI and performance.
   Identifies and analyse specific issues in user experience and provide recommendations before development starts.
   Collaborates with back-end developers to improve usability, and Help back-end developers with coding and troubleshooting. 
