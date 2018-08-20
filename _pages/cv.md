@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Computer Science
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Computer Science (2017)
 
 Work experience
 ======
