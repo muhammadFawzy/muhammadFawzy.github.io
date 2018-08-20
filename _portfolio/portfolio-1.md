@@ -1,6 +1,6 @@
 ---
-title: "Raye7"
-excerpt: "Raye7 is the most secure, fun & efficient mean to commute to work or to university<br/><img src='/images/portfolio-1.jpg'>"
+title: ["Raye7"](https://play.google.com/store/apps/details?id=com.raye7.raye7fen&hl=en)
+excerpt: "Raye7 is the most secure, fun & efficient mean to commute to work or to university<br/><img src='/images/rayeh_portofilio.png'>"
 collection: portfolio
 ---
 
@@ -9,3 +9,20 @@ Using “Raye7” mobile application, You’ll be notified when your friends and
 “Raye7” is your way into a better commuting experience , that is more flexible than a company bus, saves you the fuel cost of your car & less expensive than taking the cab or the even any private bus!
 
 Use “Raye7” and share a joyful ride, pay less, save the environment
+
+---
+title: ["Cube"](https://play.google.com/store/apps/details?id=com.cubeegypt.cubesolutions)
+excerpt: "CUBE is a fast growing and market driven company<br/><img src='/images/cube.png'>"
+collection: portfolio
+---
+
+CUBE solutions is a business solutions and development enterprise founded in Egypt by a group of youthful ambitious and highly motivated engineers co-operate to deliver the most creative and efficient solutions.
+
+---
+title: ["Masimo"](https://play.google.com/store/apps/details?id=com.cubeegypt.masimo)
+excerpt: "Masimo is a global medical technology company<br/><img src='/images/masimo.png'>"
+collection: portfolio
+---
+
+Masimo is a global medical technology company that develops and manufactures innovative noninvasive patient monitoring technologies, including medical devices and a wide array of sensors.
+
