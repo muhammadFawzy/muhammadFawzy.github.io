@@ -10,19 +10,3 @@ Using “Raye7” mobile application, You’ll be notified when your friends and
 
 Use “Raye7” and share a joyful ride, pay less, save the environment
 
----
-title: ["Cube"](https://play.google.com/store/apps/details?id=com.cubeegypt.cubesolutions)
-excerpt: "CUBE is a fast growing and market driven company<br/><img src='/images/cube.png'>"
-collection: portfolio
----
-
-CUBE solutions is a business solutions and development enterprise founded in Egypt by a group of youthful ambitious and highly motivated engineers co-operate to deliver the most creative and efficient solutions.
-
----
-title: ["Masimo"](https://play.google.com/store/apps/details?id=com.cubeegypt.masimo)
-excerpt: "Masimo is a global medical technology company<br/><img src='/images/masimo.png'>"
-collection: portfolio
----
-
-Masimo is a global medical technology company that develops and manufactures innovative noninvasive patient monitoring technologies, including medical devices and a wide array of sensors.
-
