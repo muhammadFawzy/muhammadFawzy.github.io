@@ -1,5 +1,5 @@
 ---
-title: "[Mandobak"](https://play.google.com/store/apps/details?id=sa.mandobak.mandobak&hl=en)"
+title: "[Mandobak](https://play.google.com/store/apps/details?id=sa.mandobak.mandobak&hl=en)"
 excerpt: "Mandobak Application offers product delivery service between the customer and the product owner.<br/><img src='/images/mandobak.png'>"
 collection: portfolio
 ---
