@@ -17,10 +17,23 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* [Raye7](https://www.raye7.com)(Aug 2017 - Present) 
+ * We are working in an agile environment with the scrum methodology.
+  Responsible for delivering the app with the best UI and performance.
+  Identifies and analyse specific issues in user experience and provide recommendations before development starts.
+  Collaborates with back-end developers to improve usability, and Help back-end developers with coding and troubleshooting. 
+
+* [CUBE Egypt](http://cubeegypt.com) (Oct 2016 - Aug 2017) 
+  * Generate android apps from scratch.
+  Identifies and analyse specific issues in user experience and provide recommendations before development starts.
+  Dealing with bug tracking tools to make sure that we have app without bugs.
+
+* [AAIT](https://www.aait.sa) (Mar 2016 - Oct 2016)
+  * Generate android apps from scratch.
+  Identifies and analyse specific issues in user experience and provide recommendations before development starts.
+  Dealing with bug tracking tools to make sure that we have app without bugs.
  
-  
-  
+
 Technical Skills
 ======
 * Very good experience in design patterns (MVC,MVP,MVVM), and Architecture Design
