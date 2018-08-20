@@ -1,6 +1,6 @@
 ---
 title: "[Raye7](https://play.google.com/store/apps/details?id=com.raye7.raye7fen&hl=en)"
-excerpt: "Raye7 is the most secure, fun & efficient mean to commute to work or to university<br/><img src='/images/rayeh_portofilio.png'>"
+excerpt: "Raye7 is the most secure, fun & efficient mean to commute to work or to university<br/><img src='/images/rayeh.png'>"
 collection: portfolio
 ---
 
