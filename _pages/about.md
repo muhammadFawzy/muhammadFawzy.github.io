@@ -13,7 +13,6 @@ I have worked on different types of projects educational, transportation and med
 
 
 ### Volunteering experience
-======
 I was a volunteer on Google Student Club (GSC) , inside IT Community and it was a very nice and useful experience.
 I was a speaker about google advance search and how google search works (spider idea).
 ***
