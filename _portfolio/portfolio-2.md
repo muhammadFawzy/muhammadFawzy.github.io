@@ -1,5 +1,5 @@
 ---
-title: ["Cube"](https://play.google.com/store/apps/details?id=com.cubeegypt.cubesolutions)
+title: "[Cube](https://play.google.com/store/apps/details?id=com.cubeegypt.cubesolutions)"
 excerpt: "CUBE is a fast growing and market driven company<br/><img src='/images/cube.png'>"
 collection: portfolio
 ---
