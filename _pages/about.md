@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Android Engineer Geek who is very interested in [clean code](https://g.co/kgs/FQn1tv) & [clean Architecture](https://g.co/kgs/AxPcTT).
+Android Engineer Geek who is very interested in [Clean Code](https://g.co/kgs/FQn1tv) & [Clean Architecture](https://g.co/kgs/AxPcTT).
 have worked on different types of projects educational, transportation and medical with a hands on experience with a wide variety of Android device resolutions and SDK versions. During these years I gained solid knowledge in the SDLC. Dedicated to continuously discovering, evaluating, and implementing new technologies to maximize development efficiency.
