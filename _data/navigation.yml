@@ -8,14 +8,16 @@
 
 #   - title: "Teaching"
 #     url: /teaching/  
-#   - title: "Blog Posts"
-#     url: /year-archive/
+  
   main:  
   - title: "Portfolio"
     url: /portfolio/
     
   - title: "CV"
     url: /cv/
+    
+ - title: "Blog Posts"
+   url: /year-archive/
     
   #- title: "Guide"
   #  url: /markdown/
